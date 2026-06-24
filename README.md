@@ -1,2 +1,26 @@
-# AI-Interview-Prep-Hub
-Community-driven collection of AI, Machine Learning, Generative AI, RAG, LangGraph, Agentic AI  etc. interview questions and resources.
+
+
+# AI Interview Prep Hub
+
+A community-driven repository for AI, Machine Learning, Generative AI, RAG, LangGraph, CrewAI, Agentic AI interview preparation.
+
+## Topics Covered
+
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- RAG
+- LangChain
+- LangGraph
+- CrewAI
+- Agentic AI
+
+## Contributing
+
+Contributions are welcome.
+
+Please check open issues before contributing.
