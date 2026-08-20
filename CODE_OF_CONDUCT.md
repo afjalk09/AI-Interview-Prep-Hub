@@ -3,7 +3,7 @@ name: Good First Issue
 about: Beginner-friendly contribution
 ---
 
-## Task
+## Task 
 
 Describe the contribution.
 
