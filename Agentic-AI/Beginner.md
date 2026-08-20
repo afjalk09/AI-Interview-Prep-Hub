@@ -3,7 +3,7 @@
 ## 1. What is Agentic AI?
 
 **Answer:**
-
+  
 Agentic AI refers to AI systems that can autonomously pursue goals by reasoning, planning, taking actions, observing outcomes, and adapting their behavior. Unlike traditional LLMs that generate a single response, agentic systems operate in iterative loops and interact with external environments through tools.
 
 **Key characteristics:**
