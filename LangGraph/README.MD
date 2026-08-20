@@ -1,4 +1,4 @@
-LangGraphh is a library designed for building stateful, multi-actor applications with LLMs using a graph-based execution model. It is the standard framework for creating complex AI agents that require cycles, memory, and human approval loops. [1, 2] 
+LangGraph is a library designed for building stateful, multi-actor applications with LLMs using a graph-based execution model. It is the standard framework for creating complex AI agents that require cycles, memory, and human approval loops. [1, 2] 
 Here is a comprehensive breakdown of the top interview questions and answers structured by difficulty and core concepts.
 ------------------------------
 ## 1. Fundamentals & Architecture## Q1: What is the main difference between LangChain (LCEL) and LangGraph?
